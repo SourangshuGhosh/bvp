@@ -1,0 +1,40 @@
+Wed Apr 29 08:56:11 2020
+
+bvp_02_test:
+  Python version: 3.6.9
+  FENICS version 2019.1.0
+  Solve  -u" + u = x, 0 < x < 1
+  u(0) = 0, u(1) = 0
+  Exact solution is u(x) = x - sinh(x)/sinh(1)
+  Using 8 elements.
+
+    X        U(X)
+
+  0.000000  0.000000
+  0.062500  0.009190
+  0.125000  0.018379
+  0.187500  0.026734
+  0.250000  0.035089
+  0.312500  0.041760
+  0.375000  0.048431
+  0.437500  0.052544
+  0.500000  0.056657
+  0.562500  0.057298
+  0.625000  0.057938
+  0.687500  0.054137
+  0.750000  0.050336
+  0.812500  0.041055
+  0.875000  0.031773
+  0.937500  0.015886
+  1.000000  0.000000
+
+  L2 norm of error is 0.000736338
+  H1 seminorm of error is 0.000160696
+
+  Average value of solution (my way) is 0.0373255
+  Average value of solution (FENICS way) is 0.0373255
+
+bvp_02_test:
+  Normal end of execution.
+
+Wed Apr 29 08:56:11 2020
