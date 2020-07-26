@@ -1,0 +1,42 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<dolfin xmlns:dolfin="http://fenicsproject.org">
+<mesh celltype="interval" dim="1">
+<vertices size="17">
+<vertex index="0" x="-8.0"/>
+<vertex index="1" x="-6.0"/>
+<vertex index="2" x="-4.0"/>
+<vertex index="3" x="-2.0"/>
+<vertex index="4" x="-1.0"/>
+<vertex index="5" x="-0.75"/>
+<vertex index="6" x="-0.50"/>
+<vertex index="7" x="-0.25"/>
+<vertex index="8" x="0.0"/>
+<vertex index="9" x="0.25"/>
+<vertex index="10" x="0.50"/>
+<vertex index="11" x="0.75"/>
+<vertex index="12" x="1.0"/>
+<vertex index="13" x="+2.0"/>
+<vertex index="14" x="+4.0"/>
+<vertex index="15" x="+6.0"/>
+<vertex index="16" x="+8.0"/>
+</vertices>
+<cells size="16">
+<interval index="0" v0="0" v1="1"/>
+<interval index="1" v0="1" v1="2"/>
+<interval index="2" v0="2" v1="3"/>
+<interval index="3" v0="3" v1="4"/>
+<interval index="4" v0="4" v1="5"/>
+<interval index="5" v0="5" v1="6"/>
+<interval index="6" v0="6" v1="7"/>
+<interval index="7" v0="7" v1="8"/>
+<interval index="8" v0="8" v1="9"/>
+<interval index="9" v0="9" v1="10"/>
+<interval index="10" v0="10" v1="11"/>
+<interval index="11" v0="11" v1="12"/>
+<interval index="12" v0="12" v1="13"/>
+<interval index="13" v0="13" v1="14"/>
+<interval index="14" v0="14" v1="15"/>
+<interval index="15" v0="15" v1="16"/>
+</cells>
+</mesh>
+</dolfin>
