@@ -1,0 +1,16 @@
+Wed Apr 29 08:56:10 2020
+
+bvp_01_test:
+  Python version: 3.6.9
+  FENICS version 2019.1.0
+  Boundary value problem.
+  -u" + u = x, 0 < x < 1
+  u(0) = 0, u(1) = 0
+  Exact solution is u(x) = x - sinh(x)/sinh(1)
+  Using 8 elements.
+  Graphics saved as "bvp_01_solution.png"
+
+bvp_01_test:
+  Normal end of execution.
+
+Wed Apr 29 08:56:11 2020
