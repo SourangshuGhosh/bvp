@@ -1,0 +1,15 @@
+Wed Apr 29 08:56:14 2020
+
+bvp_04_test:
+  Python version: 3.6.9
+  FENICS version 2019.1.0
+  Solve  -u" + u = x, 0 < x < 1
+  u(0) = 0, u(1) = 0 
+  Exact solution: u(x) = x - sinh(x)/sinh(1)
+  Set Dirichlet boundary conditions explicitly.
+  Graphics saved as "bvp_04_solution.png"
+
+bvp_04_test:
+  Normal end of execution.
+
+Wed Apr 29 08:56:14 2020
