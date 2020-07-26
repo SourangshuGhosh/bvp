@@ -19,15 +19,7 @@ def bvp_03 ( header ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
-#
-#  Modified:
-#
-#    02 October 2014
-#
-#  Author:
-#
-#    John Burkardt
+#    This code is distributed under the MIT License
 #
 #  Parameters:
 #
@@ -114,15 +106,7 @@ def bvp_03_test ( ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
-#
-#  Modified:
-#
-#    21 October 2018
-#
-#  Author:
-#
-#    John Burkardt
+#    This code is distributed under the MIT License
 #
   import dolfin
   import platform
