@@ -22,15 +22,7 @@ def bvp_04 ( ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
-#
-#  Modified:
-#
-#    17 January 2016
-#
-#  Author:
-#
-#    Hans-Werner van Wyk
+#    This code is distributed under the MIT License
 #
   import matplotlib.pyplot as plt
 #
@@ -106,15 +98,7 @@ def bvp_04_test ( ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
-#
-#  Modified:
-#
-#    21 October 2018
-#
-#  Author:
-#
-#    John Burkardt
+#    This code is distributed under the Mit License
 #
   import dolfin
   import platform
