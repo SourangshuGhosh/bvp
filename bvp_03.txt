@@ -1,0 +1,26 @@
+Wed Apr 29 08:56:12 2020
+
+bvp_03_test:
+  Python version: 3.6.9
+  FENICS version 2019.1.0
+  Solve  -u = 2x/(1+x^2)^2, -8 < x < +8
+  u(0) = u0, u(1) = u1 
+  Exact solution is u(x) = arctangent(x)
+  Solve on a sequence of meshes.
+
+  Reading mesh file "bvp_03_04_mesh.xml"
+  Graphics saved as "bvp_03_04_solution.png"
+
+  Reading mesh file "bvp_03_08_mesh.xml"
+  Graphics saved as "bvp_03_08_solution.png"
+
+  Reading mesh file "bvp_03_16_mesh.xml"
+  Graphics saved as "bvp_03_16_solution.png"
+
+  Reading mesh file "bvp_03_32_mesh.xml"
+  Graphics saved as "bvp_03_32_solution.png"
+
+bvp_03_test:
+  Normal end of execution.
+
+Wed Apr 29 08:56:13 2020
