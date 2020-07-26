@@ -1,0 +1,16 @@
+Wed Apr 29 08:56:15 2020
+
+bvp_05_test:
+  Python version: 3.6.9
+  FENICS version 2019.1.0
+  Solve  -u" + u = x, 0 < x < 1
+  u(0) = 0
+  u(1) = 1-cosh(1)/sinh(1)
+  Exact solution: u(x) = x - sinh(x)/sinh(1)
+  Notice Neumann condition on the right.
+  Graphics saved as "bvp_05_solution.png"
+
+bvp_05_test:
+  Normal end of execution.
+
+Wed Apr 29 08:56:15 2020
