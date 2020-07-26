@@ -1,0 +1,26 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<dolfin xmlns:dolfin="http://fenicsproject.org">
+<mesh celltype="interval" dim="1">
+<vertices size="9">
+<vertex index="0" x="-8.0"/>
+<vertex index="1" x="-6.0"/>
+<vertex index="2" x="-4.0"/>
+<vertex index="3" x="-2.0"/>
+<vertex index="4" x="0.0"/>
+<vertex index="5" x="+2.0"/>
+<vertex index="6" x="+4.0"/>
+<vertex index="7" x="+6.0"/>
+<vertex index="8" x="+8.0"/>
+</vertices>
+<cells size="8">
+<interval index="0" v0="0" v1="1"/>
+<interval index="1" v0="1" v1="2"/>
+<interval index="2" v0="2" v1="3"/>
+<interval index="3" v0="3" v1="4"/>
+<interval index="4" v0="4" v1="5"/>
+<interval index="5" v0="5" v1="6"/>
+<interval index="6" v0="6" v1="7"/>
+<interval index="7" v0="7" v1="8"/>
+</cells>
+</mesh>
+</dolfin>
