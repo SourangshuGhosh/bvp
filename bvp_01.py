@@ -17,15 +17,7 @@ def bvp_01 ( e_num ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
-#
-#  Modified:
-#
-#    23 January 2016
-#
-#  Author:
-#
-#    John Burkardt
+#    This code is distributed under the MIT License
 #
 #  Parameters:
 #
@@ -101,15 +93,7 @@ def bvp_01_test ( ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
-#
-#  Modified:
-#
-#    21 October 2018
-#
-#  Author:
-#
-#    John Burkardt
+#    This code is distributed under the MIT License
 #
   import dolfin
   import platform
