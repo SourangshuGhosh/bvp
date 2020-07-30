@@ -12,8 +12,12 @@ python3 bvp_01.py
 exit
 ```
 
-Licensing:
+## Licensing:
 The MIT license.
+
+## Author:
+
+Sourangshu Ghosh
 
 ## Reference:
 
