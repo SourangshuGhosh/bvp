@@ -23,6 +23,10 @@ def bvp_01 ( e_num ):
 #
 #    Input, integer E_NUM, the number of elements.
 #
+#   Author:
+#    
+#    Sourangshu Ghosh
+#
   import matplotlib.pyplot as plt
 #
 #  Create a mesh on the unit interval.
