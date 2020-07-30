@@ -99,6 +99,10 @@ def bvp_01_test ( ):
 #
 #    This code is distributed under the MIT License
 #
+#  Author:
+# 
+#  Sourangshu Ghosh
+#
   import dolfin
   import platform
   import time
